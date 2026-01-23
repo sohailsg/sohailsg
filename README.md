@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Sohail** <br>
+# **Sohail Ahmed** <br>
 Aspiring Analyst | Big Data Analytics
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=2986cc&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Actionable+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Dashboards%2C+KPIs%2C+and+Decision-ready+Reporting)](https://git.io/typing-svg)
