@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="assets/profile.jpg" width="180" style="border-radius: 50%;" alt="Sohail" />
+</p>
 
 # **Sohail Ahmed** <br>
 Aspiring Analyst | Big Data Analytics
