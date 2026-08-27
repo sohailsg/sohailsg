@@ -6,20 +6,28 @@
 # **Sohail Ahmed** <br>
 Aspiring Analyst | Big Data Analytics
 
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+<img src="https://demolab.com" alt="Typing SVG" />
 
 </div>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Website" />
+  </a>
+  <a href="https://google.com">
+    <img src="https://shields.io" alt="Resume" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sohailsg8952@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
 
-[![Website](https://shields.io)](https://github.com)
-[![Resume](https://shields.io)](https://google.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:sohailsg8952@gmail.com)
-
-![Profile Views](https://komarev.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
 ---
 
@@ -119,7 +127,7 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
 
 <div align="center">
 
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+<img src="https://demolab.com" alt="Typing SVG" />
 
 </div>
 
