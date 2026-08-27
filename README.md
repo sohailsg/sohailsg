@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="assets/profile.jpg" width="180" style="border-radius: 50%;" alt="Sohail" />
+  <img src="assets/profile_50.jpg" width="180" style="border-radius: 50%;" alt="Sohail" />
 </p>
 
 # **Sohail Ahmed** <br>
