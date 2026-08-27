@@ -6,18 +6,18 @@
 # **Sohail Ahmed** <br>
 Aspiring Analyst | Big Data Analytics
 
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Analyst+%7C+Big+Data+Enthusiast;SQL+%7C+Excel+%7C+Power+BI+%7C+Python)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Website](https://shields.io)](https://github.com)
-[![Resume](https://shields.io)](https://google.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:sohailsg8952@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/sohailsg)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohail-ahmed-8988b4283/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohailsg8952@gmail.com)
 
-![Profile Views](https://komarev.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sohailsg&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -55,8 +55,8 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
       <td width="50%">
         <h3 align="center">Game Recommendation System</h3>
         <p align="center">
-          <a href="https://github.com/Game_Recommendation_System" target="_blank">
-            <img src="https://shields.io" alt="Repo"/>
+          <a href="https://github.com/sohailsg/Game_Recommendation_System" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
         <p align="left">Recommendation system with a clean pipeline and reproducible steps.</p>
@@ -64,8 +64,8 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
       <td width="50%">
         <h3 align="center">SQL Sales Analysis</h3>
         <p align="center">
-          <a href="https://github.com/SQL-Project-Sales-Analysis/tree/main" target="_blank">
-            <img src="https://shields.io" alt="Repo"/>
+          <a href="https://github.com/sohailsg/SQL-Project-Sales-Analysis" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
         <p align="left">KPI-driven SQL analysis for revenue trends, product performance, and reporting tables.</p>
@@ -75,8 +75,8 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
       <td width="50%">
         <h3 align="center">Excel Salary Dashboard</h3>
         <p align="center">
-          <a href="https://github.com/Excel_Salary_Dashboard" target="_blank">
-            <img src="https://shields.io" alt="Repo"/>
+          <a href="https://github.com/sohailsg/Excel_Salary_Dashboard" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
         <p align="left">Interactive Excel dashboard comparing salary patterns by role and country.</p>
@@ -84,8 +84,8 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
       <td width="50%">
         <h3 align="center">More Projects</h3>
         <p align="center">
-          <a href="https://github.com?tab=repositories" target="_blank">
-            <img src="https://shields.io" alt="All Repos"/>
+          <a href="https://github.com/sohailsg?tab=repositories" target="_blank">
+            <img src="https://img.shields.io/badge/All_Repos-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
           </a>
         </p>
         <p align="left">Explore my repositories for more analytics and dashboard projects.</p>
@@ -101,17 +101,17 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
 <div align="center">
 
 ### Analytics & BI
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <br><br>
 
 ### Tools
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
@@ -119,10 +119,6 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
 
 <div align="center">
 
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect+and+collaborate!)](https://git.io/typing-svg)
 
-</div>
-
-<div>
-  <img src="https://vercel.app%" />
 </div>
