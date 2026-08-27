@@ -57,50 +57,25 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
 
 ## Featured Projects
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <h3 align="center">Game Recommendation System</h3>
-        <p align="center">
-          <a href="https://github.com/Game_Recommendation_System" target="_blank">
-            <img src="https://shields.io" alt="Repo"/>
-          </a>
-        </p>
-        <p align="left">Recommendation system with a clean pipeline and reproducible steps.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">SQL Sales Analysis</h3>
-        <p align="center">
-          <a href="https://github.com/SQL-Project-Sales-Analysis/tree/main" target="_blank">
-            <img src="https://shields.io" alt="Repo"/>
-          </a>
-        </p>
-        <p align="left">KPI-driven SQL analysis for revenue trends, product performance, and reporting tables.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Excel Salary Dashboard</h3>
-        <p align="center">
-          <a href="https://github.com/Excel_Salary_Dashboard" target="_blank">
-            <img src="https://shields.io" alt="Repo"/>
-          </a>
-        </p>
-        <p align="left">Interactive Excel dashboard comparing salary patterns by role and country.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">More Projects</h3>
-        <p align="center">
-          <a href="https://github.com?tab=repositories" target="_blank">
-            <img src="https://shields.io" alt="All Repos"/>
-          </a>
-        </p>
-        <p align="left">Explore my repositories for more analytics and dashboard projects.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🎮 [Game Recommendation System](https://github.com/Game_Recommendation_System)
+Recommendation system built using TF-IDF and Word2Vec semantic similarity pipelines with completely reproducible processing steps.
+> **Tech Stack:** Python, Scikit-learn, Gensim, Streamlit
+
+### 📊 [SQL Sales Analysis](https://github.com/SQL-Project-Sales-Analysis/tree/main)
+KPI-driven database analytics targeting customer revenue trends, cohort tracking, and automated performance reporting.
+> **Tech Stack:** PostgreSQL, DBeaver, PGadmin
+
+### 📈 [Excel Salary Dashboard](https://github.com/Excel_Salary_Dashboard)
+Interactive operational spreadsheet application comparing global workforce compensation layouts across professional segments.
+> **Tech Stack:** Microsoft Excel, Pivot Tables, Advanced Formulas
+
+<br>
+
+<p align="center">
+  <a href="https://github.com?tab=repositories">
+    <img src="https://shields.io" alt="All Repos" />
+  </a>
+</p>
 
 ---
 
