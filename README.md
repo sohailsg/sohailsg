@@ -1,13 +1,29 @@
-# **Sohail Ahmed**
-### Aspiring Analyst | Big Data Analytics
+<div align="center">
+<p align="center">
+  <img src="assets/profile_50.png" width="180" style="border-radius: 50%;" alt="Sohail" />
+</p>
 
-![Typing SVG](https://demolab.com)
+# **Sohail Ahmed** <br>
+Aspiring Analyst | Big Data Analytics
 
-[![Website](https://shields.io)](https://github.com) [![Resume](https://shields.io)](https://google.com) [![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:sohailsg8952@gmail.com)
+[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Website](https://shields.io)](https://github.com)
+[![Resume](https://shields.io)](https://google.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:sohailsg8952@gmail.com)
 
 ![Profile Views](https://komarev.com)
 
+</div>
+
 ---
+
+<div align="justify">
 
 ## About Me
 
@@ -27,38 +43,86 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
 
 </details>
 
+</div>
+
 ---
 
 ## Featured Projects
 
-### 🎮 [Game Recommendation System](https://github.com/Game_Recommendation_System)
-Recommendation system built using TF-IDF and Word2Vec semantic similarity pipelines with completely reproducible processing steps.
-* **Tech Stack:** Python, Scikit-learn, Gensim, Streamlit
-
-### 📊 [SQL Sales Analysis](https://github.com/SQL-Project-Sales-Analysis/tree/main)
-KPI-driven database analytics targeting customer revenue trends, cohort tracking, and automated performance reporting.
-* **Tech Stack:** PostgreSQL, DBeaver, PGadmin
-
-### 📈 [Excel Salary Dashboard](https://github.com/Excel_Salary_Dashboard)
-Interactive operational spreadsheet application comparing global workforce compensation layouts across professional segments.
-* **Tech Stack:** Microsoft Excel, Pivot Tables, Advanced Formulas
-
-<br>
-
-[![View All Repos](https://shields.io)](https://github.com?tab=repositories)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3 align="center">Game Recommendation System</h3>
+        <p align="center">
+          <a href="https://github.com/Game_Recommendation_System" target="_blank">
+            <img src="https://shields.io" alt="Repo"/>
+          </a>
+        </p>
+        <p align="left">Recommendation system with a clean pipeline and reproducible steps.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">SQL Sales Analysis</h3>
+        <p align="center">
+          <a href="https://github.com/SQL-Project-Sales-Analysis/tree/main" target="_blank">
+            <img src="https://shields.io" alt="Repo"/>
+          </a>
+        </p>
+        <p align="left">KPI-driven SQL analysis for revenue trends, product performance, and reporting tables.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Excel Salary Dashboard</h3>
+        <p align="center">
+          <a href="https://github.com/Excel_Salary_Dashboard" target="_blank">
+            <img src="https://shields.io" alt="Repo"/>
+          </a>
+        </p>
+        <p align="left">Interactive Excel dashboard comparing salary patterns by role and country.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">More Projects</h3>
+        <p align="center">
+          <a href="https://github.com?tab=repositories" target="_blank">
+            <img src="https://shields.io" alt="All Repos"/>
+          </a>
+        </p>
+        <p align="left">Explore my repositories for more analytics and dashboard projects.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 ### Analytics & BI
-![SQL](https://shields.io) ![Python](https://shields.io) ![Excel](https://shields.io) ![Power BI](https://shields.io)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
+<br><br>
 
 ### Tools
-![Git](https://shields.io) ![GitHub](https://shields.io) ![Jupyter](https://shields.io)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
+</div>
 
 ---
 
-![Typing SVG](https://demolab.com)
+<div align="center">
 
-![Footer Wave](https://vercel.app%)
+[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+
+</div>
+
+<div>
+  <img src="https://vercel.app%" />
+</div>
