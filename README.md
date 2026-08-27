@@ -1,37 +1,13 @@
-<div align="center">
-<p align="center">
-  <img src="assets/profile_50.png" width="180" style="border-radius: 50%;" alt="Sohail" />
-</p>
+# **Sohail Ahmed**
+### Aspiring Analyst | Big Data Analytics
 
-# **Sohail Ahmed** <br>
-Aspiring Analyst | Big Data Analytics
+![Typing SVG](https://demolab.com)
 
-<img src="https://demolab.com" alt="Typing SVG" />
+[![Website](https://shields.io)](https://github.com) [![Resume](https://shields.io)](https://google.com) [![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:sohailsg8952@gmail.com)
 
-</div>
-
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Website" />
-  </a>
-  <a href="https://google.com">
-    <img src="https://shields.io" alt="Resume" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sohailsg8952@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com)
 
 ---
-
-<div align="justify">
 
 ## About Me
 
@@ -51,61 +27,38 @@ My goal: **make data useful for decisions** (what’s happening, why it’s happ
 
 </details>
 
-</div>
-
 ---
 
 ## Featured Projects
 
 ### 🎮 [Game Recommendation System](https://github.com/Game_Recommendation_System)
 Recommendation system built using TF-IDF and Word2Vec semantic similarity pipelines with completely reproducible processing steps.
-> **Tech Stack:** Python, Scikit-learn, Gensim, Streamlit
+* **Tech Stack:** Python, Scikit-learn, Gensim, Streamlit
 
 ### 📊 [SQL Sales Analysis](https://github.com/SQL-Project-Sales-Analysis/tree/main)
 KPI-driven database analytics targeting customer revenue trends, cohort tracking, and automated performance reporting.
-> **Tech Stack:** PostgreSQL, DBeaver, PGadmin
+* **Tech Stack:** PostgreSQL, DBeaver, PGadmin
 
 ### 📈 [Excel Salary Dashboard](https://github.com/Excel_Salary_Dashboard)
 Interactive operational spreadsheet application comparing global workforce compensation layouts across professional segments.
-> **Tech Stack:** Microsoft Excel, Pivot Tables, Advanced Formulas
+* **Tech Stack:** Microsoft Excel, Pivot Tables, Advanced Formulas
 
 <br>
 
-<p align="center">
-  <a href="https://github.com?tab=repositories">
-    <img src="https://shields.io" alt="All Repos" />
-  </a>
-</p>
+[![View All Repos](https://shields.io)](https://github.com?tab=repositories)
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
 ### Analytics & BI
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-<br><br>
+![SQL](https://shields.io) ![Python](https://shields.io) ![Excel](https://shields.io) ![Power BI](https://shields.io)
 
 ### Tools
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-</div>
+![Git](https://shields.io) ![GitHub](https://shields.io) ![Jupyter](https://shields.io)
 
 ---
 
-<div align="center">
+![Typing SVG](https://demolab.com)
 
-<img src="https://demolab.com" alt="Typing SVG" />
-
-</div>
-
-<div>
-  <img src="https://vercel.app%" />
-</div>
+![Footer Wave](https://vercel.app%)
